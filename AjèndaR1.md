@@ -2,7 +2,7 @@
 
 _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! elatriye!) a crée un engouement palpable. Murielle G. a suggérer de construire sur cet élan et de mettre en place une structure de bienfaisance permanente._
 
-**1. Le nom
+**1. Le nom**
 
 **2. La mission
 

@@ -9,17 +9,17 @@ _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! ela
 3. Activités potentielles.
 
 4. Comités de travail
-a. Conseil d'administration temporaire - Coordonnatrice/teur; Secrétaire; Responsables des sous-comités; membres conseillers.
-b. Groupe WhatsApp élargi
-c. Le nom, si le débat persiste.
-d. Comité rédaction : mission, etc.
-e. Comités par activités, si activités confirmées.
+  a. Conseil d'administration temporaire - Coordonnatrice/teur; Secrétaire; Responsables des sous-comités; membres conseillers.
+  b. Groupe WhatsApp élargi
+  c. Le nom, si le débat persiste.
+  d. Comité rédaction : mission, etc.
+  e. Comités par activités, si activités confirmées.
 
 5. Prochaines étapes
-a. Retour et approbation des minutes par personnes présentes.
-c. Circulation des minutes au sein du groupe WhatsApp élargi, réitération de l'invitation à participation mise en place de l'organisation.
-d. Planification rencontres/travail des sous-comités.
-d. Date prochaine rencontre conseil.
+  a. Retour et approbation des minutes par personnes présentes.
+  c. Circulation des minutes au sein du groupe WhatsApp élargi, réitération de l'invitation à participation mise en place de l'organisation.
+  d. Planification rencontres/travail des sous-comités.
+  e. Date prochaine rencontre conseil.
 
 
 __subtitle__

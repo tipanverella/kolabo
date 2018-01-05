@@ -9,7 +9,7 @@ _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! ela
 3. Activités potentielles.
 
 4. Comités de travail
-  <ol>
+  <ol type=a>
     <li>Conseil d'administration temporaire - Coordonnatrice/teur; Secrétaire; Responsables des sous-comités; membres conseillers.
   b. Groupe WhatsApp élargi
   c. Le nom, si le débat persiste.

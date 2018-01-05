@@ -1,4 +1,4 @@
-## Institution des anciens de Kayanou / Enstitsyon ansyen elèv Kayanou
+## Institution des anciens de Kayanou / Enstitsyon ansyen elèv Kayanou (2018-01-06)
 
 _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! elatriye!) a crée un engouement palpable. Murielle G. a suggérer de construire sur cet élan et de mettre en place une structure de bienfaisance permanente._
 

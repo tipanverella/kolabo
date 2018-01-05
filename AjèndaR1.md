@@ -4,6 +4,15 @@ _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! ela
 
 Kijan markdown jere "comments" ? M pa wè sa nan cheat sheet la [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet].
 
+according to [this stackoverflow post](https://stackoverflow.com/questions/4823468/comments-in-markdown) the approach that seems to work here is the standard `HTML` tagging. See the following:
+
+the comment is between here
+<!---
+your comment goes here
+and here
+-->
+and here.
+
 __subtitle__
 
 

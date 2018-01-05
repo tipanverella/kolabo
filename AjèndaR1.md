@@ -2,19 +2,20 @@
 
 _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! elatriye!) a crée un engouement palpable. Murielle G. a suggérer de construire sur cet élan et de mettre en place une structure de bienfaisance permanente._
 
-1. Le nom
+*1. Le nom*
 
-2. La mission
+*2. La mission*
 
-3. Activités potentielles.
+*3. Activités potentielles.*
 
-4. Comités de travail
+*4. Comités de travail*
+
   <ol type=a>
     <li>Conseil d'administration temporaire - Coordonnatrice/teur; Secrétaire; Responsables des sous-comités; membres conseillers.
-  b. Groupe WhatsApp élargi
-  c. Le nom, si le débat persiste.
-  d. Comité rédaction : mission, etc.
-  e. Comités par activités, si activités confirmées.
+      <li>Groupe WhatsApp élargi
+      <li>Le nom, si le débat persiste.
+      <li>Comité rédaction : mission, etc.
+      <li>Comités par activités, si activités confirmées.
   </ol>
   
 5. Prochaines étapes

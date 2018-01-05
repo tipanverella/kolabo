@@ -2,28 +2,32 @@
 
 _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! elatriye!) a crée un engouement palpable. Murielle G. a suggérer de construire sur cet élan et de mettre en place une structure de bienfaisance permanente._
 
-Kijan markdown jere "comments" ? M pa wè sa nan cheat sheet la [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet].
+1. Le nom
 
-according to [this stackoverflow post](https://stackoverflow.com/questions/4823468/comments-in-markdown) the approach that seems to work here is the standard `HTML` tagging. See the following:
+2. La mission
 
-the comment is between here
-<!---
-your comment goes here
-and here
--->
-and here.
+3. Activités potentielles.
+
+4. Comités de travail
+a. Conseil d'administration temporaire - Coordonnatrice/teur; Secrétaire; Responsables des sous-comités; membres conseillers.
+b. Groupe WhatsApp élargi
+c. Le nom, si le débat persiste.
+d. Comité rédaction : mission, etc.
+e. Comités par activités, si activités confirmées.
+
+5. Prochaines étapes
+a. Retour et approbation des minutes par personnes présentes.
+c. Circulation des minutes au sein du groupe WhatsApp élargi, réitération de l'invitation à participation mise en place de l'organisation.
+d. Planification rencontres/travail des sous-comités.
+d. Date prochaine rencontre conseil.
+
 
 __subtitle__
 
 
 **markdown** e **rest**, men fòk dokuman'an gen bon ekstansyon'an.
 
-kote w bare ak angouman apostwòf sa a ? menm lè gen apostwòf an kreyòl, se pa la. :P
-
-epi tou di m ke se ekstansyon .md [markdown?] ke y bizwen. #FridaySlackPedagògTipan #IsCuzItsMe #IGetTheWeakTeach
-
-
 <!---
-your comment goes here
-and here
+kote w bare ak angouman apostwòf sa a ? menm lè gen apostwòf an kreyòl, se pa la. :P
 -->
+

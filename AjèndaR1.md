@@ -4,11 +4,11 @@ _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! ela
 
 **1. Le nom**
 
-**2. La mission
+**2. La mission**
 
-**3. Activités potentielles.
+**3. Activités potentielles.**
 
-**4. Comités de travail
+**4. Comités de travail**
 
   <ol type=a>
     <li>Conseil d'administration temporaire - Coordonnatrice/teur; Secrétaire; Responsables des sous-comités; membres conseillers.
@@ -18,7 +18,7 @@ _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! ela
       <li>Comités par activités, si activités confirmées.
   </ol>
   
-**5. Prochaines étapes
+**5. Prochaines étapes**
   <ol type=a>
     <li>Retour et approbation des minutes par personnes présentes.
     <li>Circulation des minutes au sein du groupe WhatsApp élargi, réitération de l'invitation à participation mise en place de l'organisation.
@@ -26,10 +26,6 @@ _Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! ela
     <li>Date prochaine rencontre conseil.
 </ol>
 
-__subtitle__
-
-
-**markdown** e **rest**, men fòk dokuman'an gen bon ekstansyon'an.
 
 <!---
 kote w bare ak angouman apostwòf sa a ? menm lè gen apostwòf an kreyòl, se pa la. :P

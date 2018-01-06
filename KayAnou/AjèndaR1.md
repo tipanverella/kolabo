@@ -1,8 +1,9 @@
 ## Institution des anciens de Kayanou / Enstitsyon ansyen elèv Kayanou (2018-01-06)
 
-_Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! elatriye!) a crée un engouement palpable. Murielle G. a suggérer de construire sur cet élan et de mettre en place une structure de bienfaisance permanente._
+_Les retrouvailles des anciens élèves de Kayanou (merci Chrstine! Viviane! elatriye!) a crée un engouement palpable. Murielle G. a suggéré de profiter de cet élan et de mettre en place une structure de bienfaisance permanente._
 
 **1. Le nom**
+
 Proposition sur la table : « Kayanou Monde »
 
 **2. La mission**
